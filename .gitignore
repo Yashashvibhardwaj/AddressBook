@@ -1,0 +1,31 @@
+# C++ .gitignore 
+# Compiled binaries and executables
+*.exe
+*.out
+*.app
+*.o
+*.a
+*.so
+*.dll
+
+# Build directories
+build/
+bin/
+obj/
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependency directories (if any)
+deps/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
