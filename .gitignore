@@ -18,6 +18,7 @@ obj/
 .idea/
 *.swp
 *.swo
+.gitignore
 
 # Dependency directories (if any)
 deps/
